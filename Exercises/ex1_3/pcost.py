@@ -6,4 +6,3 @@ if __name__ == "__main__":
             total_cost += int(stock_list[1]) * float(stock_list[2])
 
     print("Total cost of purchasing portfolio: $%.2f" % total_cost)
-
